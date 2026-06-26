@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manojreddy0509/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manojreddy0509/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manojreddy0509/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojreddy0509/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manojreddy0509/DSA-LeetCode/tree/master/0001-two-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Manojreddy0509/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
